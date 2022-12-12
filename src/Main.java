@@ -96,7 +96,7 @@ public class Main {
         } else if (s1.contains("-")) {
             return "-";
         } else if (s1.contains("*")) {
-            return "-";
+            return "*";
         } else if (s1.contains("/")) {
             return "/";
         } else {
